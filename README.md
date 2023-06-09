@@ -11,7 +11,7 @@
  1. **Node.js**: You can download it from the [official Node.js website](https://nodejs.org/).
  2. **TypeScript**: You will need to install the TypeScript compiler. You can install it using npm (Node.js package manager) by running the following command in your terminal:
 
- ##  ```npm install -g typescript```
+ ###  ```npm install -g typescript```
 
  3. **NPM Packages** This code uses the following packages: `fs`, `http` and `path`
  4. This Script may not work on older environments make sure you have the latest version of node.js installed on your machine
@@ -44,7 +44,7 @@
  1. **Node.js**: Você pode baixá-lo no [site oficial Node.js](https://nodejs.org/).
  2. **TypeScript**: Você precisará instalar o compilador TypeScript. Você pode instalá-lo usando o npm (gerenciador de pacotes Node.js) executando o seguinte commando em seu terminal:
 
- ```npm install -g typescript```
+ ### ```npm install -g typescript```
 
  3. **Pacotes NPM** este codigo utiliza os seguintes pacotes:`fs`, `http`, and `path`
  4. Este script pode não funcionar em ambientes mais antigos, certifique-se de ter a versão mais recente do node.js instalada em sua máquina
